@@ -343,6 +343,7 @@ footer .footerSecondary {
 .contactez-nous>p {
     font-weight: 300;
     color: #727274;
+    margin-left: 10px;
 }
 
 form div {
@@ -350,11 +351,13 @@ form div {
     flex-direction: column;
     min-height: 83px;
     margin-top: 25px;
+    margin-left: 5px;
 }
 
 form div>label {
     margin-bottom: 7px;
     font-weight: 600;
+    margin-left: 5px;
 }
 
 form div>input,
@@ -367,12 +370,13 @@ form div>textarea {
     font-weight: 500;
     font-family: Montserrat, "sans-serif";
     box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.25);
+    margin-left: 5px;
 }
 
 form div>input,
 form div>select {
     height: 50px;
-    padding-left: 10px;
+    margin-left: 5px;
 }
 
 form div>select {
@@ -384,7 +388,6 @@ form div>select {
 
 form div>textarea {
     height: 195px;
-    padding: 15px 0px 0px 10px;
 }
 
 form div>input::placeholder,
