@@ -296,11 +296,6 @@ footer .footerSecondary {
     .footerSecondary .limitedWidthBlock p {
         text-align: center;
     }
-    .contactez-nous {
-        flex-direction: column;
-        align-items: center;
-        width: 42%;
-    }
 }
 
 @media (max-width: 575.98px) {
@@ -328,11 +323,6 @@ footer .footerSecondary {
         margin-left: 0;
     }
     .items a {
-        width: 75%;
-    }
-    .contactez-nous {
-        flex-direction: column;
-        align-items: center;
         width: 75%;
     }
 }
