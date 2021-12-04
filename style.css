@@ -407,10 +407,8 @@ form div:last-child {
 }
 
 form button {
-    max-width: 500px;
     height: 60px;
-    font-weight: 700;
-    font-size: 28px;
+    font-size: 20px;
     background: rgb(32, 34, 43);
     border: rgba(48, 48, 48, 0.5) solid 1px;
     border-radius: 5px;
